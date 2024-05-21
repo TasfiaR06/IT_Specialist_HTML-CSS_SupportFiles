@@ -11,7 +11,7 @@ h1,h2,h3,h4,h5,h6 {
 /* The background color is extending across the page,
     so I have commented it out for now. */
 figcaption {
-    color: navy;
+    color:#032f0d;
     font-weight: bold;
     background-color: #AAEEFF;
     display:inline;
