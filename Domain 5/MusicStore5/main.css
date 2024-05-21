@@ -6,8 +6,8 @@ p {
     color: navy;
 }
 
-/* The background color is extending across the page,
-    so I have commented it out for now. */
+
+font-variant: smmall-caps;
 figcaption {
     color: navy;
     font-weight: bold;
