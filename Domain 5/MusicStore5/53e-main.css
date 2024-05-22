@@ -11,6 +11,9 @@ p {
 h1,h2,h3,h4,h5,h6 {
     font-family:Helvetica,Arial,sans-serif;
 }
+h1 {
+    font-size: 18pt;
+}
 
 figcaption {
     font-weight: bold;
@@ -27,7 +30,7 @@ figcaption {
     padding:5em;
 }
 #sidenote {
-    background-color: #DDDDDD;
+    background-color: #333333;
     display:inline;
     /*border-color:navy;
     border-style:dashed;
@@ -35,6 +38,11 @@ figcaption {
     border-left-width:2px;
     border-right-width:2px;*/
     border: 2px solid navy;
+    border: 2px solid navy;
+    color: #f7d2aa
+}
+#pagewidth {
+    width:500px;
 }
 a {
     text-decoration: none;
